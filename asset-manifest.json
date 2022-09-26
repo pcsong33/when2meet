@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/when2meet/static/css/main.6797c383.css",
+    "main.js": "/when2meet/static/js/main.2e496cb4.js",
+    "index.html": "/when2meet/index.html",
+    "main.6797c383.css.map": "/when2meet/static/css/main.6797c383.css.map",
+    "main.2e496cb4.js.map": "/when2meet/static/js/main.2e496cb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6797c383.css",
+    "static/js/main.2e496cb4.js"
+  ]
+}
