@@ -12,15 +12,14 @@
   clear: both;
 }
 
-.text{
+.text {
   text-align: left;
 }
 
 .pink {
-  background-color: rgb(255,228,225);
+  background-color: rgb(255, 228, 225);
 }
 
 .green {
-  background-color: rgb(34,139,34);
+  background-color: rgb(34, 139, 34);
 }
-
